@@ -4,3 +4,7 @@ terraform apply
 
 ### Create EKS Cluster
 terraform apply
+
+### Create Karpenter Controller IAM Role
+terraform init
+terraform apply
